@@ -7,11 +7,11 @@ To run the demo
 ``pnpm i && pnpm start``
 
 For more detail, you can read my 
-[Medium article](TBD)
+[Medium article](https://pragmaticgeek.medium.com/facial-sentiment-analysis-as-user-input-07b89ca6c098)
 
 Model files in /public/models were taken from:
 
 [face-api.js repository](https://github.com/justadudewhohacks/face-api.js/tree/master/weights)
 
 
-If you don't want to run this locally, you can checkout the [live Codesandbox demo](TBD).
+If you don't want to run this locally, you can checkout the [live Codesandbox demo](https://codesandbox.io/p/github/pragmaticgeek/face-sentiment-analysis).
